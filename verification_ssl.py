@@ -1,3 +1,5 @@
+# Lien vers la conversation chatgpt: https://chatgpt.com/share/685bc827-b2cc-8004-8553-7fab3ef1ec98
+
 import ssl
 import socket
 import json
